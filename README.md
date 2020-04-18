@@ -1,4 +1,4 @@
-# Pyrentena: onde dataset per week
+# Pyrentena: a dataset per week
 
 'Pyrentena' proposes a exploratory analysis of one dataset per week during the isolation period due COVID-19. 
 
