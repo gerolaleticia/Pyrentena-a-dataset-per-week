@@ -2,7 +2,7 @@
 
 'Pyrentena' proposes a exploratory analysis of one dataset per week during the isolation period due COVID-19. 
 
-Every friday I will upload the dataset of the week and a notebook with the complete analysis. 
+Every friday I will upload the dataset of the week and a notebook with the complete analysis. Some of them might contain Machine Learning predictions :)
 
 **Week 1: ENEM 2016**. This dataset was available for AceleraDev 2020 challenge, from Codenation. It brings data from the biggest national exam for college admissions in Brazil. **Question to be answered:** having internet at home and the level of schooling of the mother has any influence on the mathmatics grade of the students? How this develelop in each gender? Check out the complete [article about this dataset](https://medium.com/joguei-os-dados/pyrentena-a-dataset-per-week-877ccf370eac). 
 
